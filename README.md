@@ -45,4 +45,7 @@ Here's an outline of how you could implement the Smart Notice Board:
 <li>Deploy the Smart Notice Board in the desired location and provide instructions for users on how to interact with it.</li>
 </ul>
 #output 
-![i1](https://github.com/attadasandeep2005/smart-notice-board-using-NodeMCU-ESP8266-/assets/145467099/106fcf04-abdc-41df-8829-4462b8bcbc25)
+![i1](https://github.com/attadasandeep2005/smart-notice-board-using-NodeMCU-ESP8266-/assets/145467099/3a2255e6-ece2-4d6e-8939-4902613841f9)
+
+![images](https://github.com/attadasandeep2005/smart-notice-board-using-NodeMCU-ESP8266-/assets/145467099/94cec941-44d3-499e-a702-5687260b1b84)
+
