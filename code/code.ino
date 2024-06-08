@@ -8,7 +8,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 AsyncWebServer server(80);
 
-const char* ssid = "Sandeep";         //wifi ssid
+const char* ssid = "OnePlus Nord CE 2 Lite 5G";         //wifi ssid
 const char* password = "h8ttn6bc";  //wifi password
 
 const char* PARAM_INPUT_1 = "input1";
